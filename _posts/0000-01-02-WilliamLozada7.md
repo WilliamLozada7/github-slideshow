@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+# My name is William Lozada, i'm Colombian
 Use the left arrow to go back!
